@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  text-align: right;
+}
+
+h2 {
+  color: gray;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 15px;
+}
+
+h2 {
+  font-weight: bold;
+}
